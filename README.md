@@ -10,8 +10,7 @@ Node.js Hello World on Ubuntu using [docker][].
 
 -   Run app:
 
-        make run-container
-        # docker run -d -p :8001 xxdesmus/ubuntu-node-hello
+         docker run -d -p :8001 xxdesmus/ubuntu-node-hello
 
 -   Install `curl`:
 
