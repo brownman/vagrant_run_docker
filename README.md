@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/brownman/docker-node-hello.svg)](https://travis-ci.org/brownman/docker-node-hello)
+[![Build Status](https://travis-ci.org/brownman/vagrant_run_docker.svg)](https://travis-ci.org/brownman/vagrant_run_docker)
 
 # Node.js Hello World
 
