@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/brownman/docker-node-hello.svg)](https://travis-ci.org/brownman/docker-node-hello)
+
 # Node.js Hello World
 
 Node.js Hello World on Ubuntu using [docker][].
